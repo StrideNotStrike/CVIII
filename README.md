@@ -1,5 +1,6 @@
 # CVIII：内容与呈现 AI 辅助指数
-   
+[CVIII-\*1](https://img.shields.io/badge/CVIII-%2A%31-D9A295) 
+
 [「AI 参与指数」](https://github.com/ErSanSan233/IIIA)（Indice d'implication de l'intelligence artificielle, IIIA）曾尝试提出一套区分网络视频中 AI 参与度的详细等级标准，旨在帮助视频创作者、观众以及相关行业人员清晰地界定和理解视频在制作过程中 AI 参与的程度。
 
 这一标准的出现，为创作过程中人工智能辅助参与程度的量化提供了可行性。然而，该理论仍存在一定漏洞，且该作者长期未能更新这一标准，故本人在 IIIA 基础上稍加优化、完善，提出本方案。
