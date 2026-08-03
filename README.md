@@ -47,7 +47,7 @@ IIIA 在制定时认为文案的 AI 成分和呈现效果的 AI 成分是一样�
 ## 使用说明 | Note
 创作者在发布网络内容时，可以根据实际 AI 辅助制作情况，参考本等级标准明确标注 AI 辅助等级，以「AI 辅助指数：`{等级}`」或「CVIII: `{level}`」字样标注，或展示相应等级贴纸，让观众更清晰地了解视频的创作过程。 
   
-如果您的项目带有 `README.md` 文件，可以使用如下徽章来展示您项目的 CVIII. 
+如果您的项目带有 `README.md` 文件，可以使用徽章来展示您项目的 CVIII. 
   <!--
  - [![IIIA-0](https://img.shields.io/badge/IIIA-0-FAB689)](https://github.com/ErSanSan233/IIIA) 
  - [![IIIA-0*](https://img.shields.io/badge/IIIA-0*-FAB689)](https://github.com/ErSanSan233/IIIA) 
@@ -63,7 +63,7 @@ IIIA 在制定时认为文案的 AI 成分和呈现效果的 AI 成分是一样�
  - [![IIIA-5*](https://img.shields.io/badge/IIIA-5*-4D6BFE)](https://github.com/ErSanSan233/IIIA) 
   -->
   
-读者（观众）在浏览网络文章（或视频）时，可以查看创作者标注的等级，从而判断网络内容在内容创作与内容呈现方面 AI 的参与程度。 
+读者（观众）在浏览网络文章（或视频）时，可以查看创作者标注的等级，从而判断网络内容在创作与呈现方面 AI 的参与程度。 
   
 ## 贡献 | Contribution
 如果您认为本等级标准存在不完善的地方，或者有更好的建议，欢迎通过提交 Issue 或 Pull request 等方式参与贡献。 
