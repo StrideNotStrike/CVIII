@@ -11,7 +11,7 @@
 
 「内容与呈现 AI 辅助指数」（Content and Visualization with Intelligence Involved Index, CVIII）将 AI（人工智能）参与度的详细等级标准适用范围扩大到文章、视频等全体网络内容，旨在帮助网络文章、视频创作者、读者与观众以及相关行业人员清晰地界定和理解视频在制作过程中 AI 参与的程度。 
 
-## 原始标准 IIIA 潜在问题
+## 原始标准 IIIA 潜在问题 | Existing Bugs
 IIIA 在制定时认为文案的 AI 成分和呈现效果的 AI 成分是一样的，若两者有差距，则取 AI 成分较大的部分作为整体指数。
 
 但当核心内容与呈现方式的 AI 成分差异较大时，问题明显暴露：一部视频由人工智能编写剧本（对应核心内容等级 4），但全部使用真人拍摄，一切素材也均为真人创作（对应内容呈现等级 0），按照原标准应填 4，但得出的结果容易引起「这部视频的实拍画面『也是人工智能生成的』」的误解。
@@ -21,7 +21,7 @@ IIIA 在制定时认为文案的 AI 成分和呈现效果的 AI 成分是一样�
 ## 等级介绍（简略表格）| Simplified level table
 当核心内容与内容呈现的 AI 成分差异不大时，或仅仅包含两者中的一个，CVIII 等级可以仅由一位数构成，此时该数字直接对应 AI 辅助参与情况，具体含义基本同 IIIA.
 
-如：本修正案基于的原始参考标准 IIIA 仅仅涉及核心内容，而在内容呈现方面没有明显涉及 AI，基本保持原标准评级 `IIIA-1*`，故本方案的 CVIII 等级为 `CVIII-*1` 或其简写 `CV-1`。
+如：本修正案基于的原始参考标准 IIIA 仅仅涉及核心内容，而在内容呈现方面没有明显涉及 AI，基本保持原标准评级 `IIIA-1*`，故本方案的 CVIII 等级为 `CVIII-*1` 或其简写 `CV-*1`。
 
  | 分类 | 等级 | 含义 | 
  | ---------- | -------- | ------------------------------ | 
@@ -36,7 +36,7 @@ IIIA 在制定时认为文案的 AI 成分和呈现效果的 AI 成分是一样�
 ## 等级判定（详细表格）| Detailed level table
 若核心内容与内容呈现的等级差异过大，则 CVIII 的等级部分以两位数表示。第一位表示核心内容的 AI 辅助参与程度，第二位表示内容呈现的 AI 辅助参与程度。
 
-如：张三用人工智能编写剧本（对应核心内容等级 4），但是全部使用真人拍摄，背景音乐等素材也均为真人创作（对应视频内容等级 0），故在本标准下的等级为 `CVIII-40`，或使用其简写 `CV40`。
+如：张三用人工智能编写剧本（对应核心内容等级 4），但是全部使用真人拍摄，背景音乐等素材也均为真人创作（对应视频内容等级 0），故在本标准下的等级为 `CVIII-40`，或使用其简写 `CV-40`。
 
  | 等级 | 核心内容（观点、脚本、逻辑） | 内容呈现（视频制作中的素材生成、剪辑）| 
  | -------- | --------------------------------------------------- | --------------------------------------------------- | 
@@ -68,7 +68,7 @@ IIIA 在制定时认为文案的 AI 成分和呈现效果的 AI 成分是一样�
 | 5  | ![CVIII-50](https://img.shields.io/badge/CVIII-50-4D6BFE)  | ![CVIII-51](https://img.shields.io/badge/CVIII-51-4D6BFE)  | ![CVIII-52](https://img.shields.io/badge/CVIII-52-4D6BFE)  | ![CVIII-53](https://img.shields.io/badge/CVIII-53-4D6BFE)  | ![CVIII-54](https://img.shields.io/badge/CVIII-54-4D6BFE)  | ![CVIII-55](https://img.shields.io/badge/CVIII-55-4D6BFE)  |
 | 5* | ![CVIII-*50](https://img.shields.io/badge/CVIII-*50-4D6BFE)| ![CVIII-*51](https://img.shields.io/badge/CVIII-*51-4D6BFE)| ![CVIII-*52](https://img.shields.io/badge/CVIII-*52-4D6BFE)| ![CVIII-*53](https://img.shields.io/badge/CVIII-*53-4D6BFE)| ![CVIII-*54](https://img.shields.io/badge/CVIII-*54-4D6BFE)| ![CVIII-*55](https://img.shields.io/badge/CVIII-*55-4D6BFE)|
 
-若符合等级介绍中的第一种情况，则可以直接使用一位数等级的以下徽章展示 CVIII：  
+若符合等级介绍中的第一种情况，则可以直接使用包含一位数等级的以下徽章展示 CVIII：  
  - [![CVIII-0](https://img.shields.io/badge/CVIII-0-FAB689)](https://github.com/StrideNotStrike/CVIII) 
  - [![CVIII-*0](https://img.shields.io/badge/CVIII-*0-FAB689)](https://github.com/StrideNotStrike/CVIII) 
  - [![CVIII-1](https://img.shields.io/badge/CVIII-1-D9A295)](https://github.com/StrideNotStrike/CVIII) 
