@@ -1,10 +1,11 @@
-<span align="center">
+<div align="center">
   
-  <span lang="zh-hans">[简体中文](README.md)</span> | <span lang="zh-hant">繁體中文</span> | [English](README.en.md)
-</span>
+  <span lang="zh-hans">[简体中文](README.md)</span> | <span lang="zh-hant">繁體中文</span> | [English](README.en.md) 
+  # CVIII：內容與呈現 AI 輔助指數
+  ![CVIII-*1](https://img.shields.io/badge/CVIII-*1-D9A295)
 
-# CVIII：內容與呈現 AI 輔助指數
-![CVIII-*1](https://img.shields.io/badge/CVIII-*1-D9A295)
+</div>
+
 
 > [!NOTE]
 > <span lang="zh-hant">
