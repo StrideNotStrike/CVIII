@@ -14,7 +14,7 @@
 
 The introduction of this standard has made it feasible to quantify the extent of AI assistance in the creative process. However, the theory still has certain shortcomings, and the author has long failed to update this standard. Therefore, building upon the IIIA framework, I have slightly optimized and refined it to propose this approach.
 
-CVIII (Content and Visualization Index with Intelligence Involved) expands the scope of detailed classification standards for AI (artificial intelligence) involvement to cover all online content, including articles and videos, with the aim of helping online article and video creators, readers, viewers, and industry professionals clearly define and understand the extent of AI involvement in the production process. 
+**CVIII** (**C**ontent and **V**isualization **I**ndex with **I**ntelligence **I**nvolved) expands the scope of detailed classification standards for AI (artificial intelligence) involvement to cover all online content, including articles and videos, with the aim of helping online article and video creators, readers, viewers, and industry professionals clearly define and understand the extent of AI involvement in the production process. 
 
 ## Problems with IIIA
 When developing IIIA, it was assumed that the AI component of the copy and the AI component of the presentation were the same; if there is a discrepancy between the two, the component with the higher AI percentage is used as the overall index.
@@ -54,7 +54,7 @@ For example: Tom uses AI to write a screenplay (corresponding to Content Level 4
  | \*       | Revise the options: For videos centered on AI, add an asterisk before the core content level (e.g. Level \*1). | — | 
   
 ## Note
-When publishing online content, creators may, based on the actual extent of AI assistance used in production, clearly label the Content and Visualization Index with Intelligence Involved (CVIII) with these standards by using the phrase “CVIII: `{Level}`”,“`{CVIII-AB}`” or “`CV-AB`”. Besides, creators can also display the corresponding level sticker, so that viewers can better understand the video's production process.
+When publishing online content, creators may, based on the actual extent of AI assistance used in production, clearly label the Content and Visualization Index with Intelligence Involved (CVIII) with these standards by using the phrase “CVIII: `{Level}`”,“`CVIII-{AB}`” or “`CV-{AB}`”. Besides, creators can also display the corresponding level sticker, so that viewers can better understand the video's production process.
 
 If your project includes a `README.md`, you can use the following badge to showcase your project's CVIII level. 
 
