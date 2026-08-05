@@ -1,5 +1,10 @@
-# CVIII: Content and Visualization Index with Intelligence Involved 
-![CVIII-*1](https://img.shields.io/badge/CVIII-*1-D9A295)
+<div align="center">
+  
+  <span lang="zh-hans">[简体中文](README.md)</span> | <span lang="zh-hant">[繁體中文](README.zh-hant.md)</span> | English 
+  # CVIII: Content and Visualization Index with Intelligence Involved 
+  ![CVIII-*1](https://img.shields.io/badge/CVIII-*1-D9A295)
+
+</div>
 
 > [!NOTE]  
 > The current proposal is a draft amendment based on IIIA, provided for reference only.  
