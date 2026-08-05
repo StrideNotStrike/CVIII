@@ -1,5 +1,10 @@
-# CVIII：内容与呈现 AI 辅助指数
-![CVIII-*1](https://img.shields.io/badge/CVIII-*1-D9A295)
+<div align="center">
+  
+  <span lang="zh-hans">简体中文</span> | <span lang="zh-hant">[繁體中文](RREADME.zh-hant.md)</span> | [English](README.en.md) 
+  # CVIII：内容与呈现 AI 辅助指数
+  ![CVIII-*1](https://img.shields.io/badge/CVIII-*1-D9A295)
+
+</div>
 
 > [!NOTE]  
 > **注：** 当前方案为基于 IIIA 修正案，仅供参考。  
