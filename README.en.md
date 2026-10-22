@@ -8,7 +8,7 @@
 
 > [!NOTE]  
 > The current proposal is a draft amendment based on IIIA, provided for reference only.  
-> The original author hasn't officially adopted this proposal yet and hasn't responded either. If the original author responds, this proposal will update as appropriate. 
+> IIIA had an update at 22:35, Oct 22, 2026 (CST), fixing the bug and completed the case. This amendment is now archived permanantly.
 
 [IIIA](https://github.com/ErSanSan233/IIIA) (<span lang="fr">**I**ndice d'**i**mplication de l'**i**ntelligence **a**rtificielle</span> [FRENCH], Artificial Intelligence Involvement Index [ENGLISH]) has attempted to propose a detailed grading system to distinguish the level of AI involvement in online videos, with the aim of helping video creators, viewers, and industry professionals clearly define and understand the extent of AI involvement in the video production process.
 
